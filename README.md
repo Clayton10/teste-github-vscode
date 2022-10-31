@@ -1,0 +1,1 @@
+Repositório de aprendizado para usar o Git/Github com VSCode.
